@@ -1,9 +1,8 @@
-## Hi there 👋
+## Salve familia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Rescue Maze
+- 🌱 I’m currently learning C++
+- 📫 How to reach me: gabrielbuck1310@gmail.com
 
 <div align="center">
   <a href="https://github.com/GabrielBuck">
