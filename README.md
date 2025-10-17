@@ -1,10 +1,10 @@
 ## 👋 Olá, eu sou o Gabriel Nottoli Buck!
 
 🎓 Estudante de **Ciência da Computação** na Universidade Presbiteriana Mackenzie.  
-💻 Apaixonado por **desenvolvimento de software**, **robótica** e **cibersegurança**.  
-🔐 Atualmente, aprofundo meus estudos em **Segurança da Informação**, **Redes** e **Análise de Vulnerabilidades**, integrando isso à minha experiência prática com **C, C++ e Python**.  
-🤖 Também atuo como **Plantonista Olímpico de Robótica**, orientando equipes em programação embarcada, automação e integração de sistemas com Arduino e Raspberry Pi.  
-⚡ Participei de competições como **RoboCup** (medalha de ouro em 2023), **LARC** e **Hackathon Mackenzie 2024**, sempre buscando soluções eficientes e seguras.  
+💻  **desenvolvimento de software**, **robótica** e **cibersegurança**.  
+🔐 Atualmente, estudando **Segurança da Informação**, **Redes** e **Análise de Vulnerabilidades**, com minha prática em **C, C++ e Python e Java**.  
+🤖 Atuo como **Plantonista Olímpico de Robótica**, orientando equipes em programação embarcada, automação e integração de sistemas com Arduino e Raspberry Pi.  
+⚡ Participei de competições como **RoboCup** (medalha de ouro em 2023), **LARC** e **Hackathon Mackenzie 2024**.  
 
 ---
 
