@@ -6,18 +6,23 @@
 🤖 Também atuo como **Plantonista Olímpico de Robótica**, orientando equipes em programação embarcada, automação e integração de sistemas com Arduino e Raspberry Pi.  
 ⚡ Participei de competições como **RoboCup** (medalha de ouro em 2023), **LARC** e **Hackathon Mackenzie 2024**, sempre buscando soluções eficientes e seguras.  
 
+📈 Além disso, venho desenvolvendo **Análise de Dados** (Python/SQL/Power BI/Excel) e **Inteligência Artificial** aplicada (modelos clássicos com scikit-learn), com foco em transformar dados em decisões e automatizar rotinas com qualidade.
+
 ---
 
 ### 🧠 Atualmente estudando
 - **Cibersegurança e Análise de Vulnerabilidades**  
 - **Redes e Sistemas Operacionais**  
 - **Automação e Robótica Inteligente**  
-- **Modelagem e Estruturas de Dados em C e Python**
-
+- **Modelagem e Estruturas de Dados em C e Python**  
+- **Análise de Dados (Python/pandas, SQL, Power BI, Excel avançado)**  
+- **Inteligência Artificial/Machine Learning (scikit-learn, métricas, validação, A/B)**
+  
 ---
 
 ### 🚀 Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
+  <!-- Software & Sistemas -->
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="C++" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
@@ -26,6 +31,25 @@
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
+
+<!-- Dados & IA -->
+<div style="display: inline_block"><br>
+  <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="SQLite" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img align="center" alt="Pandas" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
+  <!-- Se quiser, adicione scikit-learn quando disponível no devicon -->
+</div>
+
+---
+
+### 🧪 Projetos em destaque (Dados & IA)
+- **ETL + Limpeza de Dados (pandas/SQL):** pipeline simples de ingestão, tratamento e export (CSV/Parquet).  
+- **Dashboard Operacional (Power BI/Excel):** KPIs com tabelas dinâmicas, Power Query e DAX básico.  
+- **ML clássico (scikit-learn):** regressão/classificação com validação (train/test, k-fold) e métricas (MAE/Accuracy/F1).  
+> *(Substitua pelos links dos seus repositórios quando publicar: ex. `data-notebooks`, `powerbi-ops`, `ml-classico`.)*
 
 ---
 
