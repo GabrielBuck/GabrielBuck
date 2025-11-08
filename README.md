@@ -45,13 +45,6 @@
 
 ---
 
-### 🧪 Projetos em destaque (Dados & IA)
-- **ETL + Limpeza de Dados (pandas/SQL):** pipeline simples de ingestão, tratamento e export (CSV/Parquet).  
-- **Dashboard Operacional (Power BI/Excel):** KPIs com tabelas dinâmicas, Power Query e DAX básico.  
-- **ML clássico (scikit-learn):** regressão/classificação com validação (train/test, k-fold) e métricas (MAE/Accuracy/F1).  
-> *(Substitua pelos links dos seus repositórios quando publicar: ex. `data-notebooks`, `powerbi-ops`, `ml-classico`.)*
-
----
 
 ### 📊 Estatísticas do GitHub
 
