@@ -1,6 +1,6 @@
 # Gabriel Nottoli Buck
 
-**Estagiário em Engenharia de Dados (Cash Management) @ Banco Bradesco**  
+**Estagiário em Engenharia de Dados (Cash Management) no Banco Bradesco**  
 **Pesquisador Residente @ Cybersec Lab (UPM Mackenzie)**  
 🎓 Ciência da Computação — Universidade Presbiteriana Mackenzie
 
