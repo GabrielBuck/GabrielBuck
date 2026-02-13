@@ -59,8 +59,6 @@ Atuo com **Engenharia de Dados** e **Cibersegurança**, construindo e evoluindo 
   <img align="center" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
-> **Observação:** Databricks e PySpark aparecem na seção de experiência/foco. Se você quiser, posso adicionar badges (Shields) de Databricks/Spark para deixar mais “corporativo”.
-
 ---
 
 ## Destaques
